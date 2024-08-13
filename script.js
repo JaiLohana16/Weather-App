@@ -1,8 +1,8 @@
 let apikey="00cce56c33ce6d8585738a3c3e8b22c5"
 let apiurl="https://api.openweathermap.org/data/2.5/weather?units=metric&q="
 
-//  https://api.openweathermap.org/data/2.5/weather?q=Karachi&appid=00cce56c33ce6d8585738a3c3e8b22c5&units=metric 
-//  https://api.openweathermap.org/data/2.5/weather?&appid=00cce56c33ce6d8585738a3c3e8b22c5&units=metric&q=karachi 
+//  https://api.openweathermap.org/data/2.5/weather?q=cityname&appid=00cce56c33ce6d8585738a3c3e8b22c5&units=metric 
+//  https://api.openweathermap.org/data/2.5/weather?&appid=00cce56c33ce6d8585738a3c3e8b22c5&units=metric&q=cityname
 //  will work both ways city name in between or at the end
 let inputbox=document.querySelector(".search input")
 let inputbtn=document.querySelector(".search button")
